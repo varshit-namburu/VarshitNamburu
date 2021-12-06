@@ -27,8 +27,14 @@
 
 ![avengers](https://lp-cms-production.imgix.net/news/2019/06/taj-mahal.jpg?format=auto&crop=entropy&fit=crop&h=800&sharp=10&vib=20&w=1200?crop=entropy&fit=crop&h=800&sharp=10&vib=20&w=1200)
 
-s.no|name
+* THE GANG
+
+S.no|Name
 ----|----
-1|harshit
-2|varshit
+1|Harshit
+2|Varshit
+3|Pooja
+4|Vaishu
+5|Pallu
+6|Supraja
 
