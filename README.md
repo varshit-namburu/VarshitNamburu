@@ -1,4 +1,4 @@
-# heading1
+# heading1https://lp-cms-production.imgix.net/news/2019/06/taj-mahal.jpg?format=auto&crop=entropy&fit=crop&h=800&sharp=10&vib=20&w=1200?crop=entropy&fit=crop&h=800&sharp=10&vib=20&w=1200
 ## heading2
 ### heading3
 #### heading4
@@ -17,7 +17,7 @@
    *  grapes
    *  kiwi
 
-1. vegitables
+1. vegitableshttps://lp-cms-production.imgix.net/news/2019/06/taj-mahal.jpg?format=auto&crop=entropy&fit=crop&h=800&sharp=10&vib=20&w=1200?crop=entropy&fit=crop&h=800&sharp=10&vib=20&w=1200
     1. brinjal
     2. tomato
     3. onions
@@ -29,12 +29,13 @@
 
 * THE GANG
 
-S.no|Name
+S.no|Namehttps://lp-cms-production.imgix.net/news/2019/06/taj-mahal.jpg?format=auto&crop=entropy&fit=crop&h=800&sharp=10&vib=20&w=1200?crop=entropy&fit=crop&h=800&sharp=10&vib=20&w=1200
 ----|----
-1|Harshit
-2|Varshit
-3|Pooja
-4|Vaishu
-5|Pallu
-6|Supraja
+1|damon :smi
+2|stephen
+3|elena
 
+::
+Im good :heart: 
+
+~~striken~~
